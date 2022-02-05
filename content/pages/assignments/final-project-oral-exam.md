@@ -22,8 +22,57 @@ During the final session, the class will split into the recitation groups. All g
 
 The questions will be distributed as follows:
 
-| SECTION A |  {{< br >}}{{< br >}} SECTION B {{< br >}}{{< br >}}  | SECTION C | SECTION D |
-| AQ1→B | BQ1→C | CQ1→D | DQ1→A |
-| AQ2→C | BQ2→D | CQ2→A | DQ2→B 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+SECTION A
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+SECTION B
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+SECTION C
+{{< tdclose >}}
+{{< tdopen >}}
+SECTION D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AQ1→B
+{{< tdclose >}}
+{{< tdopen >}}
+BQ1→C
+{{< tdclose >}}
+{{< tdopen >}}
+CQ1→D
+{{< tdclose >}}
+{{< tdopen >}}
+DQ1→A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AQ2→C
+{{< tdclose >}}
+{{< tdopen >}}
+BQ2→D
+{{< tdclose >}}
+{{< tdopen >}}
+CQ2→A
+{{< tdclose >}}
+{{< tdopen >}}
+DQ2→B
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 In the past, students have not been "graded" on the spot. The focus should be kept on substance, not evaluation.
