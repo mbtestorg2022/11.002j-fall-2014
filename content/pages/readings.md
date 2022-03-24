@@ -120,7 +120,7 @@ Health Care: Passing Health-Care Reform in Congress
 *   Cohn, Jonathan. "[How They Did It](http://www.newrepublic.com/article/75077/how-they-did-it)." _The New Republic_, June 2010, 14–25.
 *   Oberlander, Jonathan. "[Long Time Coming: Why Health Reform Finally Passed](http://dx.doi.org/10.1377/hlthaff.2010.0447)." _Health Affairs_ 29, no. 6 (2010): 1112–6.
 *   "[Public Health Insurance Option](http://www.huffingtonpost.com/news/health-care-public-option/)," _The Huffington Post_, March 25, 2010.
-*   Cannon, Michael F. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Yes, Mr. President. A Free Market Can Fix Health Care." (PDF)](http://www.cato.org/pubs/pas/pa650.pdf) _Cato Institute Policy Analysis_, no. 650 (2009).
+*   Cannon, Michael F. ["Yes, Mr. President. A Free Market Can Fix Health Care." (PDF)](http://www.cato.org/pubs/pas/pa650.pdf) _Cato Institute Policy Analysis_, no. 650 (2009).
 
 
 {{< tdclose >}}
@@ -179,7 +179,7 @@ Policy Evaluation: Health Care and Gun Control
 
 ### Health Care and Gun Control
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Massachusetts Health Care Reform: Six Years Later (PDF)](https://www.kff.org/wp-content/uploads/2013/01/8311.pdf). Kaiser Family Foundation. 2012. (read Executive Summary on p.1 and table on p. 9 closely; skim the rest)
+*   [Massachusetts Health Care Reform: Six Years Later (PDF)](https://www.kff.org/wp-content/uploads/2013/01/8311.pdf). Kaiser Family Foundation. 2012. (read Executive Summary on p.1 and table on p. 9 closely; skim the rest)
 *   Baicker, Katherine, et al. "[The Oregon Experiment—Effects of Medicaid on Clinical Outcomes](http://dx.doi.org/10.1056/NEJMsa1212321)." _New England Journal of Medicine_ 368 (2013): 1713–22.
 *   Cohn, Jonathon. "[Obamacare's Impact on the Uninsured, State by State](http://www.newrepublic.com/article/118976/obamacare-impact-state-state-according-gallup)." _The New Republic_, August 2014.
 *   Miller, Michal, Deborah Azrael, and David Hemenway. "Firearms and Violent Death in the United States." In _Reducing Gun Violence in America: Informing Policy with Evidence and Analysis_. Johns Hopkins University Press, 2013. ISBN: 9781421411101. \[Preview with [Google Books](http://books.google.com/books?id=sQxNVhV-W7oC&pg=PA3#v=onepage)\]
@@ -299,15 +299,15 @@ Federal Budget: Recession, Deficit, and Problem Definition
 ### Problem Definition
 
 *   Congressional Digest. "[The Deficit and the Debt: Meeting America's Fiscal Challenges](http://congressionaldigest.com/issue/the-deficit-and-the-debt/)," February 2010.
-*   National Commission on Fiscal Responsibility and Reform (Simpson-Bowles Commission). ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Moment of Truth," (PDF - 1.5MB)](http://www.washingtonpost.com/wp-srv/politics/documents/TheMomentofTruth.pdf) December 2010, pp. 6–16.
+*   National Commission on Fiscal Responsibility and Reform (Simpson-Bowles Commission). ["The Moment of Truth," (PDF - 1.5MB)](http://www.washingtonpost.com/wp-srv/politics/documents/TheMomentofTruth.pdf) December 2010, pp. 6–16.
 *   Krugman, Paul. "[Nobody Understands Debt](http://www.nytimes.com/2012/01/02/opinion/krugman-nobody-understands-debt.html)," _The New York Times_, January 1, 2012.
-*   Burman, Leonard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Taxes and Inequality (PDF)](http://www.taxpolicycenter.org/UploadedPDF/413067-Taxes-and-Inequality.pdf), 2014.
+*   Burman, Leonard. [Taxes and Inequality (PDF)](http://www.taxpolicycenter.org/UploadedPDF/413067-Taxes-and-Inequality.pdf), 2014.
 
 ### **Case Readings**
 
 ### Interest Groups
 
-*   ### Heritage Foundation. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Getting America's Debt under Control."  (PDF)](http://thf_media.s3.amazonaws.com/2013/pdf/FS125.pdf) Fact Sheet No. 125, August 2013.
+*   ### Heritage Foundation. ["Getting America's Debt under Control."  (PDF)](http://thf_media.s3.amazonaws.com/2013/pdf/FS125.pdf) Fact Sheet No. 125, August 2013.
     
 *   Wasson, Erik. "[Liberals Fear Betrayal by Obama on Social Security](http://thehill.com/policy/finance/135779-liberals-fear-betrayal-from-obama-on-social-security)," _The Hill_, January 5, 2011.
 
@@ -640,7 +640,7 @@ Climate Change: State Action and the Arizona Net-Metering Case
 ### **Case Readings**
 
 *   Rabe, B. G. "[Race to the Top: The Expanding Role of U.S. State Renewable Portfolio Standards](http://digitalcommons.wcl.american.edu/sdlp/vol7/iss3/5/)." _Sustainable Development Law & Policy_ 7, no. 3 (2007): 10–16.
-*   Barnes, Justin, and Chelsea Barnes. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"2013 RPS Legislation: Gauging the Impacts." (PDF)](https://eq-research.com/wp-content/uploads/2015/07/Solar_Today_Gauging_the_Impacts_Barnes.pdf) _Solar Today_ 27, no. 7 (2013): 17–19.
+*   Barnes, Justin, and Chelsea Barnes. ["2013 RPS Legislation: Gauging the Impacts." (PDF)](https://eq-research.com/wp-content/uploads/2015/07/Solar_Today_Gauging_the_Impacts_Barnes.pdf) _Solar Today_ 27, no. 7 (2013): 17–19.
 *   Cardwell, Diane. "[A Pushback on Green Power](http://www.nytimes.com/2014/05/29/business/energy-environment/a-pushback-on-green-power.html)," _The New York Times_, May 28, 2014.
 *   Randazzo, Ryan, and Robert Anglen. "[APS, Solar Companies Clash over Credits to Customers](http://archive.azcentral.com/business/news/articles/20131007aps-solar-clash-credits-customers.html)." _The Arizona Republic_, October 21, 2013.
 *   The Arizona Republic. "[Solar Future Up For Grabs in Arizona.](http://archive.azcentral.com/video/2555788370001)" Accessed June 24, 2015. 
