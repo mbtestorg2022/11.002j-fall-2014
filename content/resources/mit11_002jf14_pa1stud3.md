@@ -4,6 +4,7 @@ description: This file contains information regarding the true costs of the affo
   care act.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-002j-making-public-policy-fall-2014/b38fe12ace7fcdaae253e0f12993e64a_MIT11_002JF14_pa1stud3.pdf
 file_type: application/pdf
+parent_uid: a1ea3853-0ba5-20d2-192e-f39967b4646f
 resourcetype: Document
 title: '11.002/17.30 Paper 1: The True Costs of the Affordable Care Act'
 uid: b38fe12a-ce7f-cdaa-e253-e0f12993e64a
